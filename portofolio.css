@@ -1,0 +1,50 @@
+.navbar{
+    width : 100%;
+    background-color: rgba(128, 128, 128, 0.24);
+    padding : 15px;
+}
+span{
+    font-size: 25px;
+    color: rgb(91, 92, 55);
+    font-family: 'Forte', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-body{
+    width : 80%;
+    padding: 20px;
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 20px;
+    padding : 20px;
+}
+a{
+    color:rgb(93, 94, 54);
+    font-family: 'Imprint MT Shadow', Times, serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    background-image: url(no1.jpg);
+    background-position: center;
+    
+}
+.content{
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    color: rgb(19, 46, 68);
+    margin: auto;
+    text-align: center;
+}
+
+
